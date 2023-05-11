@@ -22,6 +22,32 @@
 </div>
 
 ###
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/duartealex1/lc/main/assets/print1.png"  />
+</div>
+
+###
+
+<p align="left">Ao preencher os dados e clicar no botão 'Criar Contato', o contato será salvo no localstorage, e aparecerá um card ao lado.</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/duartealex1/lc/main/assets/print2.png"  />
+</div>
+
+###
+
+<p align="left">Após o contrato  ser criado, podemos editar e apagar. Ao clicar em editar, os dados reaparecerão nos campos e podem ser alterados. Ao finalizar basta clicar  em atualizar. Ao clicar em apagar, aparecerá um alert com a mensagem de confirmação de exclusão.</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/duartealex1/lc/main/assets/print3.png"  />
+</div>
+
+###
+###
 
 <p align="left">Para Visualizar a página - [Clique aqui](https://duartealex1.github.io/lc/)</p>
 
