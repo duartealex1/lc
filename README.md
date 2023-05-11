@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Criação de lista de contatos feito com vue.js podendo salvar, editar e excluir o contato, que é exibido em cards, com conteúdo: nome, foto, email, contato e endereço.<br>Receberei os dados em meu email pessoal.<br>Desde já agradeço seu contato.</p>
+<p align="left">Criação de lista de contatos feito com vue.js podendo salvar, editar e excluir o contato, que é exibido em cards, com conteúdo: nome, foto, email, contato e endereço.<br>Os contatos serão salvos no Localstorage<br></p>
 
 ###
 
